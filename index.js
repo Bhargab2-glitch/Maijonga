@@ -10,7 +10,7 @@ const db= new Client({
     user:"postgres",
     host:"localhost",
     database:"Maijonga",
-    password:"password",
+    password:"27012006",
     port:5432
 });
 db.connect();
